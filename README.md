@@ -18,7 +18,7 @@ Install dependencies
 yarn
 ```
 
-# 💻 About the Challenge
+# About the Challenge
 
 ### In this challenge, you will need to create unit tests for the application.
 
@@ -45,7 +45,7 @@ yarn
 ### GET /api/v1/statements/:statement_id
 - This route receives a JWT token in the request header and the ID of a registered operation (withdrawal or deposit) in the route URL, and returns the information of the found operation.
 
-Test Solution
+# Test Solution ⚙
 
 ```bash
 yarn test
